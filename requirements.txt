@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+python-multipart 
+# paddlepaddle==2.5.2
+paddlepaddle 
+paddleocr 
+pillow 
+numpy 
+scikit-learn 
+pymupdf 
+google-generativeai
+# python-dotenv==1.0.0fastapi==0.109.2
+# uvicorn==0.27.1
+# python-multipart==0.0.6
+# # paddlepaddle==2.5.2
+# paddlepaddle==2.6.2
+# paddleocr==2.7.0
+# pillow==10.2.0
+# numpy==1.24.3
+# scikit-learn==1.3.2
+# pymupdf==1.23.9
+# google-generativeai==0.3.2
+# python-dotenv==1.0.0

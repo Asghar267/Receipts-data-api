@@ -1,0 +1,12 @@
+*.log
+*.md
+*.csv
+*.json
+*.zip
+*.tar.gz
+*.rar
+*.7z
+node_modules/
+venv/
+__pycache__/
+.DS_Store
